@@ -60,6 +60,7 @@ Siga os passos abaixo para clonar e executar o projeto no seu computador:
 ## Passo a passo para primeira utilização da API
 
 1. **Criar um super usuário**
+   
    Abra o terminal e execute os seguintes comandos para criar um super usuário:
 
    ``` python manage.py createsuperuser ```
@@ -81,7 +82,7 @@ Siga os passos abaixo para clonar e executar o projeto no seu computador:
    
    Lembre-se de que o token JWT gerado possui validade de um dia!
 
-6. **Importar atores do arquivo csv (OPCIONAL)**
+5. **Importar atores do arquivo csv (OPCIONAL)**
    
    Caso deseje importar 50 atores fornecidos no arquivo *'actors.csv'* para o banco de dados, execute o seguinte comando no terminal:
    
