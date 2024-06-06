@@ -49,6 +49,8 @@ Siga os passos abaixo para clonar e executar o projeto no seu computador:
 10. **Acesse o projeto no seu navegador**
     
    Abra o navegador e digite **http://127.0.0.1:8000** para ver o projeto em execução.
+
+   Ou você também pode acessar a API pelo link **[mcandidon.pythonanywhere.com](https://mcandidon.pythonanywhere.com)**
    
 ---
 
