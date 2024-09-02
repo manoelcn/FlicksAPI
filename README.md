@@ -73,7 +73,7 @@ Siga os passos abaixo para clonar e executar o projeto no seu computador:
    - Se desejar, crie um novo usuário comum e configure suas permissões de acordo com suas necessidades.
 
 3. **Obter token de acesso**
-   - Acesse a URL *'http://127.0.0.1:8000/api/v1/authentication/token/'* em seu navegador ou cliente HTTP.
+   - Faça um POST na URL *'http://localhost:8000/api/v1/authentication/token/'* em seu navegador ou cliente HTTP.
    - Informe o nome de usuário e senha do usuário que você criou.
    - Um token JWT será gerado como resposta.
 
